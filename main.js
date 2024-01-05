@@ -49,5 +49,3 @@ function playAudio3() {
   var audio = document.getElementById("audioPlayer3");
   audio.play();
 }
-
-
